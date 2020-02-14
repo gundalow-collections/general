@@ -13,8 +13,8 @@ ANSIBLE_METADATA = {'metadata_version': '1.1',
                     'supported_by': 'community'}
 
 
-
 DOCUMENTATION = '''
+
 ---
 module: jabber
 short_description: Send a message to jabber user or chat room
