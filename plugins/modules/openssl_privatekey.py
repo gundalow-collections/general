@@ -13,6 +13,7 @@ ANSIBLE_METADATA = {'metadata_version': '1.1',
 
 DOCUMENTATION = r'''
 ---
+
 module: openssl_privatekey
 short_description: Generate OpenSSL private keys
 description:
